@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning complicated topics in embedded software developing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
--  Email:imanipouyaa@gmail.com 
+-  Email: imanipouyaa@gmail.com 
 -  Phone: +989128723187
 
 <!---
