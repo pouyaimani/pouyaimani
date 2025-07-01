@@ -3,7 +3,7 @@
 🎯 I’m an Embedded Linux & C++ Developer with 6+ years of experience designing and developing robust, high-performance software for embedded systems and payment solutions.
 
 💻 Skilled in:
-- C/C++ (C++98, C++11)
+- C/C++ (C++98, C++11, C++14, C++17)
 - Embedded Linux
 - POS & Payment Systems (ISO 8583, EMV)
 - Real-Time Systems, Device Drivers
